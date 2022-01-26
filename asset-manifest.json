@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/coodles-website/static/css/main.89ca6767.chunk.css",
+    "main.js": "/coodles-website/static/js/main.5e99a38b.chunk.js",
+    "main.js.map": "/coodles-website/static/js/main.5e99a38b.chunk.js.map",
+    "runtime-main.js": "/coodles-website/static/js/runtime-main.4bfdedae.js",
+    "runtime-main.js.map": "/coodles-website/static/js/runtime-main.4bfdedae.js.map",
+    "static/js/2.872fc2bb.chunk.js": "/coodles-website/static/js/2.872fc2bb.chunk.js",
+    "static/js/2.872fc2bb.chunk.js.map": "/coodles-website/static/js/2.872fc2bb.chunk.js.map",
+    "index.html": "/coodles-website/index.html",
+    "precache-manifest.9970cf479c4e3e256cf5d4adcc518e92.js": "/coodles-website/precache-manifest.9970cf479c4e3e256cf5d4adcc518e92.js",
+    "service-worker.js": "/coodles-website/service-worker.js",
+    "static/css/main.89ca6767.chunk.css.map": "/coodles-website/static/css/main.89ca6767.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bfdedae.js",
+    "static/js/2.872fc2bb.chunk.js",
+    "static/css/main.89ca6767.chunk.css",
+    "static/js/main.5e99a38b.chunk.js"
+  ]
+}
